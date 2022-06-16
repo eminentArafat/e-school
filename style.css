@@ -1,0 +1,140 @@
+.logoo{
+    width: 198px;
+}
+.tab-content>.active {
+    display:none;
+}
+.container{
+    padding: 30px;
+    font-family: 'Poppins';
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #21b573;
+}
+.nav-pills {
+    --bs-nav-pills-border-radius: 33px;
+    --bs-nav-pills-link-active-color: #fff;
+}
+.nav-link{
+    color: #000000;
+    padding: 12px 28px;
+}
+
+.illu img{
+    width: 550px;
+    height: 344px;
+    
+}
+.small{
+    color: #FD511A;
+
+}
+.funlearn{
+    font-size: 48px;
+    width: 405px;
+    font-weight: 700;
+}
+.funlearn span{
+    color: #21B573;
+
+}
+.noneword{
+    size: 16px;
+    font-weight: 400;
+    color:#6C6B6B;
+}
+.card1{
+    padding: 40px;
+}
+.getstart{
+    background: #21B573;
+    border-radius: 33px;
+    padding: 10px 32px;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+}
+.wrapper{
+    margin-top: 100px;
+}
+.icon{
+    width: 125px;
+    padding: 25px;
+}
+.box{
+    background-color: #F8FFFB;
+    height: 200px;
+}
+.onlinec{
+    font-size: 36px;
+    font-weight: 700;
+    padding: 65px;
+    color: #413960;
+}
+.card{
+    border: none;
+    box-shadow: 0px 20px 40px #0000001a;
+    border-radius: 10px;
+}
+.card-title{
+    color: #413960;
+}
+.card-text{
+    color: #585859;
+
+}
+.active{
+    box-shadow: 0px 20px 40px #0000001a;
+    border-radius: 10px;
+}
+.card-footer{
+    border-top: none;
+}
+.icon-course{
+    width: 18px;
+    padding-bottom: 18px;
+    margin: 5px;
+}
+.course{
+    margin-left: 70px;
+}
+.start-p{
+    color: #585859;
+    
+}
+.testi{
+    font-size: 36px;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 50px;
+}
+.man{
+    width: 120px;
+    margin-left: 230px;
+}
+.mansw{
+    width: 580px;
+    margin-right:200px;
+    margin-top: 22px;
+}
+footer{
+   background-color: #282531;
+   margin-top: 60px;
+   height: 370px;
+}
+.five{
+    width: 365px;
+}
+.five,.two p, li{
+    color: #FFFFFF;
+} 
+.two li{
+    list-style-type: none;
+}
+.foot{
+    padding-top: 25px;
+}
+.copyright{
+    color: #FFFFFF;
+    margin-top: 70px;
+}
